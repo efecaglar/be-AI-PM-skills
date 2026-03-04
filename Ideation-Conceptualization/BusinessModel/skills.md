@@ -1,4 +1,4 @@
----
+
 
 ## name: business-model
 description: "Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model, documenting how a business creates value, or analyzing an existing business model."
@@ -127,12 +127,8 @@ Business Model Canvas (Strategyzer, Alexander Osterwalder) is the most widely us
 
 **When to use BMC**: Established businesses, corporate strategy, investor materials where you need to articulate how all operational pieces connect.
 
-
-
 - The Business Model Canvas provides a holistic view of how value flows through the organization
 - Each block should reinforce and support the others
 - Strong business models have clear, defensible value propositions
 - Financial sustainability requires revenue to exceed costs at scale
 - Use this to identify opportunities for innovation and optimization
-
----
